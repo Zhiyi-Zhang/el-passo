@@ -1,0 +1,67 @@
+CRED.Setup time elapse: 0.0677952766418457s 
+CRED.KeyGen over 3 attributes time elapse: 0.0830690860748291s 
+ * Serving Flask app "idp" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.002593994140625s 
+CRED.Sign over 3 attributes time elapse: 0.005233049392700195s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.002454042434692383s 
+CRED.Sign over 3 attributes time elapse: 0.00510406494140625s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0025360584259033203s 
+CRED.Sign over 3 attributes time elapse: 0.005278825759887695s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0024840831756591797s 
+CRED.Sign over 3 attributes time elapse: 0.0052530765533447266s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0023949146270751953s 
+CRED.Sign over 3 attributes time elapse: 0.005364179611206055s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0024781227111816406s 
+CRED.Sign over 3 attributes time elapse: 0.0052831172943115234s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0024390220642089844s 
+CRED.Sign over 3 attributes time elapse: 0.005093812942504883s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.002444028854370117s 
+CRED.Sign over 3 attributes time elapse: 0.005352973937988281s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.002471923828125s 
+CRED.Sign over 3 attributes time elapse: 0.005378007888793945s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0025031566619873047s 
+CRED.Sign over 3 attributes time elapse: 0.005219221115112305s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.002537965774536133s 
+CRED.Sign over 3 attributes time elapse: 0.0054209232330322266s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0024890899658203125s 
+CRED.Sign over 3 attributes time elapse: 0.0050411224365234375s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0024912357330322266s 
+CRED.Sign over 3 attributes time elapse: 0.005251169204711914s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.002440929412841797s 
+CRED.Sign over 3 attributes time elapse: 0.005180835723876953s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0027239322662353516s 
+CRED.Sign over 3 attributes time elapse: 0.0058879852294921875s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0025899410247802734s 
+CRED.Sign over 3 attributes time elapse: 0.005225181579589844s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0024869441986083984s 
+CRED.Sign over 3 attributes time elapse: 0.005375862121582031s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.0023849010467529297s 
+CRED.Sign over 3 attributes time elapse: 0.005059003829956055s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.002522706985473633s 
+CRED.Sign over 3 attributes time elapse: 0.0052568912506103516s 
+Credential request content length:  222
+NIZK Schnorr verifier (User-IdP) over 1 attributes time elapse: 0.002750873565673828s 
+CRED.Sign over 3 attributes time elapse: 0.005229949951171875s 

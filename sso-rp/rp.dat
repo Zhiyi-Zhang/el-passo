@@ -1,0 +1,65 @@
+ * Serving Flask app "rp" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18195819854736328s 
+Cred.Verify over 3 element time elapse: 0.07616305351257324s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18606185913085938s 
+Cred.Verify over 3 element time elapse: 0.07674717903137207s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18947672843933105s 
+Cred.Verify over 3 element time elapse: 0.07454371452331543s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18517303466796875s 
+Cred.Verify over 3 element time elapse: 0.07502102851867676s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18178629875183105s 
+Cred.Verify over 3 element time elapse: 0.07396507263183594s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.1846451759338379s 
+Cred.Verify over 3 element time elapse: 0.07587265968322754s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18387079238891602s 
+Cred.Verify over 3 element time elapse: 0.07471513748168945s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18689799308776855s 
+Cred.Verify over 3 element time elapse: 0.07366108894348145s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18376994132995605s 
+Cred.Verify over 3 element time elapse: 0.07339596748352051s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18532013893127441s 
+Cred.Verify over 3 element time elapse: 0.07501792907714844s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18570590019226074s 
+Cred.Verify over 3 element time elapse: 0.0758357048034668s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18339180946350098s 
+Cred.Verify over 3 element time elapse: 0.0751340389251709s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18677091598510742s 
+Cred.Verify over 3 element time elapse: 0.07309699058532715s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18503594398498535s 
+Cred.Verify over 3 element time elapse: 0.0752110481262207s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18632030487060547s 
+Cred.Verify over 3 element time elapse: 0.07447171211242676s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18171381950378418s 
+Cred.Verify over 3 element time elapse: 0.07543611526489258s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18643498420715332s 
+Cred.Verify over 3 element time elapse: 0.07391595840454102s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18247008323669434s 
+Cred.Verify over 3 element time elapse: 0.07441520690917969s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.18090391159057617s 
+Cred.Verify over 3 element time elapse: 0.07370996475219727s 
+Authentication request content length:  1805
+NIZK Schnorr Verifier (User-RP) over 6 element time elapse: 0.19068217277526855s 
+Cred.Verify over 3 element time elapse: 0.07657313346862793s 
