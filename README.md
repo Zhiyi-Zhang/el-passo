@@ -1,5 +1,7 @@
 # EL PASSO
 
+**This python based EL PASSO codebase is not longer maintained. Please go to the new [C++/WASM EL PASSO codebase](https://github.com/Zhiyi-Zhang/PS-Signature-and-EL-PASSO).**
+
 We currently have Python3 implementation of IdP (sso-idp), RP (sso-rp), user app(sso-user) and user Firefox plugin (sso-plugin).
 
 ## Requirements
